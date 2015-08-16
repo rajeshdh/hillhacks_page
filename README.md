@@ -1,4 +1,4 @@
-HillHacks Website (http://hillhacks.in)
-==============
+hillhacks website (http://hillhacks.in/)
+========================================
 
-Source code for HillHacks 2015 Website.
+Source code for hillhacks website.
