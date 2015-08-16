@@ -281,6 +281,11 @@ body {
 		border-color: #5FB59A;
 	}
 
+	#home-row-2 .btn:hover {
+		background-color: white;
+		color: #1abc9c;
+	}
+
 	#home-row-2 .btn-signup {
 		margin-bottom: 40px;
 	}
